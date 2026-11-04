@@ -8,7 +8,7 @@
 
 End-to-end machine learning project that predicts the **sale price of a house** from its characteristics (surface, quality, neighborhood, age…), essentially built to improve ML skills but also for the Kaggle competition [*House Prices: Advanced Regression Techniques*](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques).
 
-Leaderboard rank : 399/4727 (top 8%, score : 0.11956). This result can be improveed by using XGBoost, CatBoost,... 
+Leaderboard rank : 399/4727 (top 8%, score : 0.11956). This result can **possibly** be improved by adding XGBoost, LightGBM, CatBoost in the ensemble. 
 
 **Feel free to use this version and to optimize it.**
 
