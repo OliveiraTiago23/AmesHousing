@@ -6,11 +6,12 @@
 
 End-to-end machine learning project that predicts the **sale price of a house** from its characteristics (surface, quality, neighborhood, age…), built for the Kaggle competition [*House Prices: Advanced Regression Techniques*](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques).
 
-Score of this project : 399/4727 (top 8%, score : 0.11956)
+Score of this project : 399/4727 (top 8%, score : 0.11956). This result can be improveed by using XGBoost, CatBoost,... 
+**Feel free to use this version and to optimize it.**
 
 ---
 
-## 📊 Results
+## Results
 
 Models are compared with **5-fold cross-validation** on the training set. The metric is **RMSLE** (RMSE on `log(1 + price)`), the official Kaggle metric — lower is better. As a rule of thumb, an RMSLE of 0.11 means a typical error of about 11 %.
 
@@ -71,7 +72,7 @@ With only ~1,450 houses, ~230 columns after encoding, many correlated features, 
 
 ---
 
-## 📏 Evaluation metrics
+## Evaluation metrics
 
 | Metric | Meaning | Better |
 |---|---|---|
