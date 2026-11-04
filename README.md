@@ -86,7 +86,7 @@ With only ~1,450 houses, ~230 columns after encoding, many correlated features, 
 
 ---
 
-## 🔧 Key lessons
+## Key lessons
 
 - **Look at what a missing value means** before deleting or imputing it.
 - **Never evaluate on the data used for training**; use cross-validation to choose between models.
