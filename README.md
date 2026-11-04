@@ -82,56 +82,7 @@ With only ~1,450 houses, ~230 columns after encoding, many correlated features, 
 
 ---
 
-> The Kaggle data files are **not included** in this repository. Download them from the competition page (see below).
-
----
-
-## 🚀 Getting started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/OliveiraTiago23/AmesHousing.git
-cd AmesHousing
-```
-
-### 2. Install the dependencies
-
-```bash
-pip install pandas numpy scipy scikit-learn matplotlib seaborn joblib jupyter
-```
-
-or, if you use the provided file:
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Download the data
-
-Get `train.csv` and `test.csv` from the [competition's Data page](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data) and place them in a `data/` folder (or next to the notebook). With the Kaggle CLI:
-
-```bash
-pip install kaggle
-kaggle competitions download -c house-prices-advanced-regression-techniques -p data
-unzip data/house-prices-advanced-regression-techniques.zip -d data
-```
-
-### 4. Run the notebook
-
-```bash
-jupyter notebook ames_housing_project.ipynb
-```
-
-Run all cells (**Kernel → Restart & Run All**). The notebook writes a `submission.csv` file with the columns `Id` and `SalePrice`.
-
-### 5. Submit to Kaggle
-
-Upload the file on the competition's *Submit Predictions* page, or use the CLI:
-
-```bash
-kaggle competitions submit -c house-prices-advanced-regression-techniques -f submission.csv -m "ensemble"
-```
+> The Kaggle data files are **not included** in this repository. Download them from the competition page.
 
 ---
 
