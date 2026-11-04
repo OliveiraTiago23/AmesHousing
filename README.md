@@ -1,4 +1,4 @@
-# 🏠 Ames Housing — House Price Prediction
+# Ames Housing — House Price Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-regression-orange)
@@ -97,23 +97,7 @@ With only ~1,450 houses, ~230 columns after encoding, many correlated features, 
 
 ---
 
-## 🔭 Possible improvements
-
-- Add XGBoost / LightGBM / CatBoost to the ensemble.
-- Replace the fixed-weight average with `StackingRegressor`.
-- More feature engineering (neighborhood × size interactions, careful target statistics inside cross-validation).
-- Smarter outlier removal based on cross-validated residuals.
-
----
-
-## 🛠️ Tech stack
+## Tech stack
 
 Python · pandas · NumPy · SciPy · scikit-learn · Matplotlib · Seaborn · joblib · Jupyter
 
-## 📚 Data
-
-[Ames Housing dataset](http://jse.amstat.org/v19n3/decock.pdf) (Dean De Cock, 2011) as provided by the Kaggle competition. Please follow the competition's rules regarding data usage and redistribution.
-
-## 👤 Author
-
-**Tiago Oliveira** — [@OliveiraTiago23](https://github.com/OliveiraTiago23)
