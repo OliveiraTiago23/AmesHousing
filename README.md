@@ -3,8 +3,14 @@
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-regression-orange)
 ![Kaggle](https://img.shields.io/badge/Kaggle-House%20Prices-20BEFF)
+## Three important remarks : 
+ - **Time to read this readme : 2 minutes.**
 
-**Time to read this readme : 2 minutes.**
+ - **This version can contain coding mistakes but also reasoning ones. Use your critical thinking and ask yourself questions.**
+
+- **Feel free to use this version and to optimize it.**
+
+---
 
 End-to-end machine learning project that predicts the **sale price of a house** from its characteristics (surface, quality, neighborhood, age…), essentially built to improve ML skills but also for the Kaggle competition [*House Prices: Advanced Regression Techniques*](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques).
 
