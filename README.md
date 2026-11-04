@@ -99,5 +99,5 @@ With only ~1,450 houses, ~230 columns after encoding, many correlated features, 
 
 ## Tech stack
 
-Python · pandas · NumPy · SciPy · scikit-learn · Matplotlib · Seaborn · joblib · Jupyter
+Python · pandas · NumPy · SciPy · scikit-learn · Matplotlib · Seaborn 
 
