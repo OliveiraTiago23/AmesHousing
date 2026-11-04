@@ -6,7 +6,7 @@
 
 End-to-end machine learning project that predicts the **sale price of a house** from its characteristics (surface, quality, neighborhood, age…), built for the Kaggle competition [*House Prices: Advanced Regression Techniques*](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques).
 
-The project covers the full workflow: data exploration, cleaning, feature engineering, model comparison, hyperparameter tuning, ensembling, and generation of a Kaggle submission file.
+Score of this project : 399/4727 (top 8%, score : 0.11956)
 
 ---
 
