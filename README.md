@@ -16,8 +16,6 @@ End-to-end machine learning project that predicts the **sale price of a house** 
 
 Leaderboard rank : 399/4727 (top 8%, score : 0.11956). This result can **possibly** be improved by adding XGBoost, LightGBM, CatBoost in the ensemble. 
 
-**Feel free to use this version and to optimize it.**
-
 ---
 
 ## Results
