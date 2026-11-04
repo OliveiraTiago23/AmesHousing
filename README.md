@@ -35,7 +35,7 @@ Models are compared with **5-fold cross-validation** on the training set. The me
 
 ---
 
-## 🧭 Approach
+## Approach
 
 1. **Exploration** — data types, missing values, duplicates, price distribution (right-skewed → log transform), outliers.
 2. **Cleaning**
@@ -55,7 +55,7 @@ Models are compared with **5-fold cross-validation** on the training set. The me
 
 ---
 
-## 🤖 Models and why they were chosen
+## Models and why they were chosen
 
 | Model | Why it is here |
 |---|---|
@@ -81,16 +81,6 @@ With only ~1,450 houses, ~230 columns after encoding, many correlated features, 
 | **RMSLE** | RMSE on log-prices ≈ typical error in percent (**Kaggle score**) | lower |
 
 ---
-
-## 📁 Repository structure
-
-```
-AmesHousing/
-├── ames_housing_project.ipynb   # Full project notebook (run this)
-├── requirements.txt             # Python dependencies
-├── data/                        # train.csv and test.csv go here (not tracked by git)
-└── README.md
-```
 
 > The Kaggle data files are **not included** in this repository. Download them from the competition page (see below).
 
