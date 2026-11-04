@@ -4,7 +4,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-regression-orange)
 ![Kaggle](https://img.shields.io/badge/Kaggle-House%20Prices-20BEFF)
 
-End-to-end machine learning project that predicts the **sale price of a house** from its characteristics (surface, quality, neighborhood, age…), built for the Kaggle competition [*House Prices: Advanced Regression Techniques*](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques).
+End-to-end machine learning project that predicts the **sale price of a house** from its characteristics (surface, quality, neighborhood, age…), essentially built to improve ML skills but also for the Kaggle competition [*House Prices: Advanced Regression Techniques*](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques).
 
 Leaderboard rank : 399/4727 (top 8%, score : 0.11956). This result can be improveed by using XGBoost, CatBoost,... 
 
